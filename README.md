@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Muhammad (مُحَمَّد) 👋
 
-<!--
-**ihuomtia/ihuomtia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact 📞
 
-Here are some ideas to get you started:
+- Reach me out via ihuomtia@gmail.com 📧
+- Visit [my personal blog](https://blog.onrender.com) 🌐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education 🎓
+
+- 👨🏻‍💻 Currently a student in the engineering curriculum, at [INPT](https://fr.wikipedia.org/wiki/Institut_national_des_postes_et_t%C3%A9l%C3%A9communications) specialized in _Embedded Systems And Digital Services_.
+
+## Selected Awards 🏆 
+- 🥈 Second Prize at the 5th International Days of Ethical Hacking CTF, at INPT, 2024.
+- 🏆 Fifth place in AkaSec's Cyber Odessey CTF, at 1337, 2023.
+- 🥈 Second Prize at the 11th Open Days Robotics Competition, at INPT, 2023.
+
