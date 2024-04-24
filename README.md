@@ -3,7 +3,7 @@
 ## Contact 📞
 
 - Reach me out via ihuomtia@gmail.com 📧
-- Visit [my personal blog](https://blog.onrender.com) 🌐
+- Visit [my personal blog](https://ihuomtia.onrender.com) 🌐
 
 ## Education 🎓
 
