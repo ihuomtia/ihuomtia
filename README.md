@@ -12,5 +12,5 @@
 ## Selected Awards 🏆 
 - 🥈 Second Prize at the 5th International Days of Ethical Hacking CTF, at INPT, 2024.
 - 🏆 Fifth place in AkaSec's Cyber Odessey CTF, at 1337, 2023.
-- 🥈 Second Prize at the 11th Open Days Robotics Competition, at INPT, 2023.
+- 🥈 Second Prize in the Open Days Robotics Competition, at INPT, 2023.
 
