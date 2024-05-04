@@ -1,4 +1,4 @@
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://decolonizepalestine.com/faq/)
 ### Hi there, I'm Muhammad (مُحَمَّد) 👋
 
 ## Contact 📞
