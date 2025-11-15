@@ -6,7 +6,7 @@
 ### About Me
 
 - 🔭 I’m currently working on **embedded security research and tool development**.
-- 👯 I’m looking to collaborate on **open-source hardware security projects**.
+- 🏗 I’m looking to collaborate on **open-source hardware security projects**.
 - 💬 Ask me about **embedded C, reverse engineering, exploit development, RTOS, and threat modeling**.
 - ⚡ Fun fact: The most secure system I ever worked on was one that wasn't connected to the internet... until someone plugged in a cable.
 
