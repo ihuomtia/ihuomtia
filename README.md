@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm ihuomtia 👋</h1>
+<h3 align="center">A passionate embedded engineer securing the cyber-physical world.</h3>
 
-<!--
-**ihuomtia/ihuomtia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **embedded security research and tool development**.
+- 👯 I’m looking to collaborate on **open-source hardware security projects**.
+- 💬 Ask me about **embedded C, reverse engineering, exploit development, RTOS, and threat modeling**.
+- ⚡ Fun fact: The most secure system I ever worked on was one that wasn't connected to the internet... until someone plugged in a cable.
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ihuomtia&theme=dark&hide_border=true" alt="ihuomtia's GitHub Stats" />
+  <img src="https://cloud.umami.is/p/ytCN1XgsR" />
+</p>
