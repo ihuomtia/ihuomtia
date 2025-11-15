@@ -11,6 +11,9 @@
 - ⚡ Fun fact: The most secure system I ever worked on was one that wasn't connected to the internet... until someone plugged in a cable.
 
 <p align="center">
+  <a href="https://cloud.umami.is/q/zD1X3mcgd">Visit My Github</a>
+  <br>
+  <br>
   <img src="https://streak-stats.demolab.com?user=ihuomtia&theme=dark&hide_border=true" alt="ihuomtia's GitHub Stats" />
-  <img src="https://cloud.umami.is/p/ytCN1XgsR" />
 </p>
+
